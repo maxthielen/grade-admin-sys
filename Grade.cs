@@ -1,4 +1,4 @@
-﻿namespace grade-admin-sys;
+﻿namespace grade_admin_sys;
 
 public class Grade
 {

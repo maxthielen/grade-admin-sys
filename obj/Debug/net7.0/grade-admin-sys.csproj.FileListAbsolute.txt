@@ -1,0 +1,15 @@
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/bin/Debug/net7.0/grade-admin-sys
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/bin/Debug/net7.0/grade-admin-sys.deps.json
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/bin/Debug/net7.0/grade-admin-sys.runtimeconfig.json
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/bin/Debug/net7.0/grade-admin-sys.dll
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/bin/Debug/net7.0/grade-admin-sys.pdb
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.csproj.AssemblyReference.cache
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.AssemblyInfoInputs.cache
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.AssemblyInfo.cs
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.csproj.CoreCompileInputs.cache
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.dll
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/refint/grade-admin-sys.dll
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.pdb
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/grade-admin-sys.genruntimeconfig.cache
+/home/max/Documents/saxion/y1/q4/c#/assignments/week-1/grade-admin-sys/obj/Debug/net7.0/ref/grade-admin-sys.dll
